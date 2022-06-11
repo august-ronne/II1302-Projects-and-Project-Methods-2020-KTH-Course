@@ -22,3 +22,18 @@ The group consisted of five members, three students from electrical engineering 
 * Working environment manager
 Since the group only had five members, students had to rotate between certain roles to make sure all of the required work was carried out.
 ### Example Images of the Coursework
+#### Sprint Whiteboard from Project Iteration #2
+| <img src="https://github.com/august-ronne/II1302-Projects-and-Project-Methods-2020-KTH-Course/blob/main/sprint-whiteboard-iteration2.png?raw=true"  /> |
+| ------ |
+#### Use Case Whiteboard from Project Iteration #4
+| <img src="https://github.com/august-ronne/II1302-Projects-and-Project-Methods-2020-KTH-Course/blob/main/usecase-whiteboard-iration4.png?raw=true"  /> |
+| ------ |
+#### Sprint Design Chosen by the Group
+| <img src="https://github.com/august-ronne/II1302-Projects-and-Project-Methods-2020-KTH-Course/blob/main/sprint-design.png?raw=true" /> |
+| ------ |
+#### Examination Methodology Chosen by the Group
+| <img src="https://github.com/august-ronne/II1302-Projects-and-Project-Methods-2020-KTH-Course/blob/main/examination-method.png?raw=true"  /> |
+| ------ |
+#### EssUP General Overview (supplied to student group by course examiner)
+| <img src="https://github.com/august-ronne/II1302-Projects-and-Project-Methods-2020-KTH-Course/blob/main/essup.PNG?raw=true"  /> |
+| ------ |
